@@ -47,4 +47,3 @@ Note - The pictures are normalized in the two above examples
 ## References
 
 1. [CSRnet](https://arxiv.org/abs/1802.10062) for crowd counting.
-2. [Crowdnet](https://github.com/davideverona/deep-crowd-counting_crowdnet)
